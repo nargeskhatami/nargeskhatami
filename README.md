@@ -1,4 +1,3 @@
-
 ![waving](https://capsule-render.vercel.app/api?type=waving&color=7d8590&fontColor=B2BCBE&height=120&section=header&text=Narges%20Khatami&fontSize=40)
 
 ## About Me
