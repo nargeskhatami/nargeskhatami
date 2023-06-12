@@ -1,44 +1,23 @@
-<p align="center">Hi 👋, I'm Narges.<br>A front-end developer who loves to learn new things.</p>
 
-###
+![waving](https://capsule-render.vercel.app/api?type=waving&color=7d8590&fontColor=B2BCBE&height=120&section=header&text=Narges%20Khatami&fontSize=40)
 
-<h3 align="center">🌐 Socials</h3>
+## About Me
+Hi 👋
 
-###
+I’m Narges. a front-end developer with skills in JavaScript, TypeScript, React, Next.js, Vue.js, Nuxt.js, and various UI frameworks.
+<br>
+I love to create beautiful user interfaces using modern technologies. 
+<br>
+You can check out some of my work on my GitHub profile and feel free to contact me. 😊
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/narges-khatami/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="24" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:nargeskhatami.h@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="24" alt="gmail logo"  />
-  </a>
-</div>
+## 💻 Tech Stack
 
-###
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs)](https://skillicons.dev)
 
-<h3 align="center">💻 Tech Stack</h3>
+[![My Skills](https://skillicons.dev/icons?i=materialui,tailwind,bootstrap,sass,css,html)](https://skillicons.dev)
 
-###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" width="36" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" width="36" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" width="36" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="24" width="36" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="24" width="36" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="24" width="36" alt="nuxtjs logo"  />
-</div>
+## 📱 Contact
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="24" width="36" alt="materialui logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="24" width="36" alt="tailwindcss logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="24" width="36" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="24" width="36" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" width="36" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24" width="36" alt="css3 logo"  />
-</div>
-
-###
+[![My Skills](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://skillicons.dev](https://www.linkedin.com/in/narges-khatami/))
+[![My Skills](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://skillicons.dev](mailto:nargeskhatami.h@gmail.com))
