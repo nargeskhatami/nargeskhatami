@@ -11,7 +11,6 @@ You can check out some of my work on my GitHub profile and feel free to contact 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=materialui,tailwind,bootstrap,sass,css,html)](https://skillicons.dev)
 
 
 ## 📱 Contact
